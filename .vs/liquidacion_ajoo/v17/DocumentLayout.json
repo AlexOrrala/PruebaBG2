@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\FTP\\Alex_\\Projectos\\Dotnet desde 0\\Numeric IntPtr\\liquidacion_ajoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D2D45F0-83BC-46F0-8A94-8E72FB31C944}|TestLiquidacion\\TestLiquidacion.csproj|f:\\ftp\\alex_\\projectos\\dotnet desde 0\\numeric intptr\\liquidacion_ajoo\\testliquidacion\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D2D45F0-83BC-46F0-8A94-8E72FB31C944}|TestLiquidacion\\TestLiquidacion.csproj|solutionrelative:testliquidacion\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B95E779-3089-4738-A30C-607D7093F613}|liquidacion_ajoo\\liquidacion_ajoo.csproj|f:\\ftp\\alex_\\projectos\\dotnet desde 0\\numeric intptr\\liquidacion_ajoo\\liquidacion_ajoo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B95E779-3089-4738-A30C-607D7093F613}|liquidacion_ajoo\\liquidacion_ajoo.csproj|solutionrelative:liquidacion_ajoo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B95E779-3089-4738-A30C-607D7093F613}|liquidacion_ajoo\\liquidacion_ajoo.csproj|f:\\ftp\\alex_\\projectos\\dotnet desde 0\\numeric intptr\\liquidacion_ajoo\\liquidacion_ajoo\\services\\clientesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B95E779-3089-4738-A30C-607D7093F613}|liquidacion_ajoo\\liquidacion_ajoo.csproj|solutionrelative:liquidacion_ajoo\\services\\clientesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B95E779-3089-4738-A30C-607D7093F613}|liquidacion_ajoo\\liquidacion_ajoo.csproj|f:\\ftp\\alex_\\projectos\\dotnet desde 0\\numeric intptr\\liquidacion_ajoo\\liquidacion_ajoo\\models\\clientes_ajoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B95E779-3089-4738-A30C-607D7093F613}|liquidacion_ajoo\\liquidacion_ajoo.csproj|solutionrelative:liquidacion_ajoo\\models\\clientes_ajoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B95E779-3089-4738-A30C-607D7093F613}|liquidacion_ajoo\\liquidacion_ajoo.csproj|f:\\ftp\\alex_\\projectos\\dotnet desde 0\\numeric intptr\\liquidacion_ajoo\\liquidacion_ajoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B95E779-3089-4738-A30C-607D7093F613}|liquidacion_ajoo\\liquidacion_ajoo.csproj|solutionrelative:liquidacion_ajoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B95E779-3089-4738-A30C-607D7093F613}|liquidacion_ajoo\\liquidacion_ajoo.csproj|f:\\ftp\\alex_\\projectos\\dotnet desde 0\\numeric intptr\\liquidacion_ajoo\\liquidacion_ajoo\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B95E779-3089-4738-A30C-607D7093F613}|liquidacion_ajoo\\liquidacion_ajoo.csproj|solutionrelative:liquidacion_ajoo\\controllers\\pagoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Clientes_ajoo.cs",
+              "DocumentMoniker": "F:\\FTP\\Alex_\\Projectos\\Dotnet desde 0\\Numeric IntPtr\\liquidacion_ajoo\\liquidacion_ajoo\\Models\\Clientes_ajoo.cs",
+              "RelativeDocumentMoniker": "liquidacion_ajoo\\Models\\Clientes_ajoo.cs",
+              "ToolTip": "F:\\FTP\\Alex_\\Projectos\\Dotnet desde 0\\Numeric IntPtr\\liquidacion_ajoo\\liquidacion_ajoo\\Models\\Clientes_ajoo.cs",
+              "RelativeToolTip": "liquidacion_ajoo\\Models\\Clientes_ajoo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:09:41.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientesServices.cs",
+              "DocumentMoniker": "F:\\FTP\\Alex_\\Projectos\\Dotnet desde 0\\Numeric IntPtr\\liquidacion_ajoo\\liquidacion_ajoo\\Services\\ClientesServices.cs",
+              "RelativeDocumentMoniker": "liquidacion_ajoo\\Services\\ClientesServices.cs",
+              "ToolTip": "F:\\FTP\\Alex_\\Projectos\\Dotnet desde 0\\Numeric IntPtr\\liquidacion_ajoo\\liquidacion_ajoo\\Services\\ClientesServices.cs",
+              "RelativeToolTip": "liquidacion_ajoo\\Services\\ClientesServices.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T11:06:35.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\FTP\\Alex_\\Projectos\\Dotnet desde 0\\Numeric IntPtr\\liquidacion_ajoo\\liquidacion_ajoo\\appsettings.json",
+              "RelativeDocumentMoniker": "liquidacion_ajoo\\appsettings.json",
+              "ToolTip": "F:\\FTP\\Alex_\\Projectos\\Dotnet desde 0\\Numeric IntPtr\\liquidacion_ajoo\\liquidacion_ajoo\\appsettings.json",
+              "RelativeToolTip": "liquidacion_ajoo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T10:23:46.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\FTP\\Alex_\\Projectos\\Dotnet desde 0\\Numeric IntPtr\\liquidacion_ajoo\\liquidacion_ajoo\\Program.cs",
+              "RelativeDocumentMoniker": "liquidacion_ajoo\\Program.cs",
+              "ToolTip": "F:\\FTP\\Alex_\\Projectos\\Dotnet desde 0\\Numeric IntPtr\\liquidacion_ajoo\\liquidacion_ajoo\\Program.cs",
+              "RelativeToolTip": "liquidacion_ajoo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:22:59.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "F:\\FTP\\Alex_\\Projectos\\Dotnet desde 0\\Numeric IntPtr\\liquidacion_ajoo\\TestLiquidacion\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestLiquidacion\\UnitTest1.cs",
+              "ToolTip": "F:\\FTP\\Alex_\\Projectos\\Dotnet desde 0\\Numeric IntPtr\\liquidacion_ajoo\\TestLiquidacion\\UnitTest1.cs",
+              "RelativeToolTip": "TestLiquidacion\\UnitTest1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:10:39.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagosController.cs",
+              "DocumentMoniker": "F:\\FTP\\Alex_\\Projectos\\Dotnet desde 0\\Numeric IntPtr\\liquidacion_ajoo\\liquidacion_ajoo\\Controllers\\PagosController.cs",
+              "RelativeDocumentMoniker": "liquidacion_ajoo\\Controllers\\PagosController.cs",
+              "ToolTip": "F:\\FTP\\Alex_\\Projectos\\Dotnet desde 0\\Numeric IntPtr\\liquidacion_ajoo\\liquidacion_ajoo\\Controllers\\PagosController.cs",
+              "RelativeToolTip": "liquidacion_ajoo\\Controllers\\PagosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:17:48.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

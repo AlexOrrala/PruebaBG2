@@ -1,0 +1,6 @@
+@liquidacion_ajoo_HostAddress = http://localhost:5036
+
+GET {{liquidacion_ajoo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
